@@ -58,3 +58,9 @@
 `A B C`  
 `A B C`  
 `A B C`
+
+### Pattern 12:
+`A B C`  
+`D E F`  
+`G H I`
+
