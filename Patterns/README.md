@@ -73,3 +73,9 @@
 `A`  
 `B B`  
 `C C C` 
+
+### Pattern 15:
+`A`  
+`B C`  
+`D E F`  
+`G H I J`
