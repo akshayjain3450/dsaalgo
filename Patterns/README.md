@@ -64,3 +64,7 @@
 `D E F`  
 `G H I`
 
+### Pattern 13:
+`A B C`  
+`B C D`  
+`C D E`
