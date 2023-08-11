@@ -53,3 +53,8 @@
 `A A A`  
 `B B B`  
 `C C C`
+
+### Pattern 11:
+`A B C`  
+`A B C`  
+`A B C`
