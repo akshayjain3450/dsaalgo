@@ -68,3 +68,8 @@
 `A B C`  
 `B C D`  
 `C D E`
+
+### Pattern 14:
+`A`  
+`B B`  
+`C C C` 
