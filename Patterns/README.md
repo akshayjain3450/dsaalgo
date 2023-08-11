@@ -79,3 +79,9 @@
 `B C`  
 `D E F`  
 `G H I J`
+
+### Pattern 16:
+`A`  
+`B C`  
+`C D E`  
+`D E F G`
